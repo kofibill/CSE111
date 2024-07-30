@@ -1,0 +1,25 @@
+Please respond thoroughly (at least two sentences for each question) to
+the following three questions.
+
+1. Describe an experience you had this semester where you saw the power of
+functions.
+Before the semester, i didnt know about functions and i had little to no knowledge about functions and what they do.
+I must say i saw the real power of functions when i came to learn and understand what functions are a what they are
+used for. I will also say that i saw the power of functions when i started using them to write programs.
+
+
+2. In your judgment, what is the value of test functions?
+Test functions are very valuable and very important. Test functions are used to test for program functions if they run
+correctly and produce the expected outcome. So in summary, test functions check the validity of program functions
+and check if they work well.
+
+
+3. Describe your process for troubleshooting and fixing a program that
+has a problem. What is one thing you can do to improve your process?
+
+When you write a program and it produces faults, you must check to see if it is a logical or syntax error.
+Now with the process of troubleshooting, we can use the red dot on the side on visual studio code which is named
+the debugger. The debugger tells the programmer where the fault is located for the programmer to find and fix those errors.
+One thing you can do to improve the process is to use the try and except keywords so that they can catch and reveal
+error made by the user.
+
